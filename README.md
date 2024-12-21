@@ -13,7 +13,7 @@ I'm just starting my coding journey, and I'm excited to explore the world of dev
 
 ---
 
-## 💻 Projects I've Working On
+## 💻 Projects I've Worked On
 Here are some beginner-friendly projects I'm proud of:
 
 - **URL Shortener API with Authentication**  
