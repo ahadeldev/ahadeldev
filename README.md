@@ -40,7 +40,7 @@ Here are some beginner-friendly projects I'm proud of:
 
 ## 📫 How to Reach Me
 - **Email**: [ahadel.dev@gmail.com](mailto:ahadel.dev@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/ahmed-adel-62940b195/](https://www.linkedin.com/in/ahmed-adel-62940b195/)  
+- **LinkedIn**: [https://www.linkedin.com/in/ahmed-adel-62940b195/](https://www.linkedin.com/in/ahmed-adel-62940b195)  
 
 ---
 
