@@ -13,7 +13,7 @@ I'm just starting my coding journey, and I'm excited to explore the world of dev
 
 ---
 
-## 💻 Projects I've Working On
+## 💻 Projects I've Worked On
 Here are some beginner-friendly projects I'm proud of:
 
 - **URL Shortener API with Authentication**  
@@ -27,7 +27,7 @@ Here are some beginner-friendly projects I'm proud of:
 ---
 
 ## 🎯 My Goals
-- Build a strong foundation in **[JavaScript, NodeJs, Express and NestJs]**.
+- Build a strong foundation in **JavaScript, NodeJs, Express and NestJs**.
 - Create useful tools or apps to help others.
 - Land my first developer job by showcasing my skills.
 
@@ -46,7 +46,7 @@ Here are some beginner-friendly projects I'm proud of:
 
 ## 🌟 Fun Facts About Me
 - I enjoy playing video games.
-- I'm a big fan of [Reading, , Going to the gym, AI and gaming].
+- I'm a big fan of Reading, Going to the gym, AI and gaming.
 - My coding mantra: *"The code of today builds the solutions of tomorrow, keep learning, keep exploring, and let curiosity be your greatest compiler."*
 
 ---
