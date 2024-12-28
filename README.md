@@ -16,6 +16,10 @@ I'm just starting my coding journey, and I'm excited to explore the world of dev
 ## 💻 Projects I've Worked On
 Here are some beginner-friendly projects I'm proud of:
 
+- **Expenses Tracker API**  
+  *The Expenses Tracker API is a Node.js backend project that allows users to manage their expenses efficiently, The application adheres to best practices in software development, including modular architecture and middleware for reusable components.*  
+  [![GitHub Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/ahadeldev/expenses-tracker-api)
+
 - **URL Shortener API with Authentication**  
   *A secure and feature-rich URL shortening service*  
   [![GitHub Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/ahadeldev/auth_based_url_shortener)
