@@ -24,9 +24,9 @@ Here are some beginner-friendly projects I'm proud of:
   *A secure and feature-rich URL shortening service*  
   [![GitHub Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/ahadeldev/auth_based_url_shortener)
 
-- **Contacts API**  
-  *A RESTful API for managing user accounts and their personal contacts*  
-  [![GitHub Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/ahadeldev/contacts_api)
+- **Blogs API**  
+  *This is a backend API for a blog application built using Node.js, TypeScript, Prisma*  
+  [![GitHub Repo](https://img.shields.io/badge/Repo-View-blue?style=flat&logo=github)](https://github.com/ahadeldev/blogs_api)
 
 ---
 
